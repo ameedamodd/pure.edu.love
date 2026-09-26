@@ -1,1 +1,1 @@
-https://cdn.jsdelivr.net/gh/ameedamodd/testrepo2/index.svg
+https://cdn.jsdelivr.net/gh/ameedamodd/pure.edu.love/index.svg
