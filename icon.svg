@@ -1,1 +1,16 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="lucide lucide-cloud-lightning-icon lucide-cloud-lightning"><path d="M6 16.326A7 7 0 1 1 15.71 8h1.79a4.5 4.5 0 0 1 .5 8.973"/><path d="m13 12-3 5h4l-3 5"/></svg>
+<?xml version="1.0" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 20010904//EN"
+ "http://www.w3.org/TR/2001/REC-SVG-20010904/DTD/svg10.dtd">
+<svg version="1.0" xmlns="http://www.w3.org/2000/svg"
+ width="24.000000pt" height="24.000000pt" viewBox="0 0 24.000000 24.000000"
+ preserveAspectRatio="xMidYMid meet">
+
+<g transform="translate(0.000000,24.000000) scale(0.100000,-0.100000)"
+fill="#000000" stroke="none">
+<path d="M6 194 c-10 -26 -7 -51 9 -64 8 -7 15 -27 15 -46 0 -41 21 -54 84
+-54 65 0 96 17 96 52 0 16 7 36 16 45 8 9 14 27 12 42 l-3 26 -81 -3 c-52 -3
+-84 0 -88 7 -11 17 -53 13 -60 -5z m55 -32 c7 -18 5 -22 -11 -22 -23 0 -34 15
+-26 36 8 21 27 13 37 -14z m159 -2 c0 -13 -7 -20 -20 -20 -25 0 -26 16 -2 29
+23 14 22 14 22 -9z"/>
+</g>
+</svg>
